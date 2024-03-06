@@ -1,7 +1,8 @@
+import Header from "./Components/Footer.jsx";
 export default function App() {
 
   const nome = "Gabriel";
-  const sobreNome = "Dutra×";
+  const sobreNome = "Dutra";
 
   return(
     <div>
