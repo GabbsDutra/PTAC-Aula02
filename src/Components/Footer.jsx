@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 export default function Footer(){
-=======
-export default function Header(){
->>>>>>> 8d95ff2b0c3b25d6c90fe9d27429e7ed9f728af4
+
+
 
     return(
         <footer>
